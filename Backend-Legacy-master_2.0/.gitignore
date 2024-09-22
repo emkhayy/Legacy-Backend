@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.flaskenv
+/api_venv
+env
+.vscode/
